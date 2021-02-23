@@ -1,0 +1,12 @@
+{
+  "name": "start-express-cli",
+  "version": "1.1.0",
+  "bin": {
+    "start-express": "index.js"
+  },
+  "description": "A CLI command to automatically create Express basic api",
+  "main": "index.js",
+  "repository": "https://github.com/quilltech57/start-express-cli.git",
+  "author": "Job Ugbem <ugbemjob57@gmail.com>",
+  "license": "MIT"
+}
