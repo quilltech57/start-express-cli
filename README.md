@@ -6,7 +6,7 @@ A CLI to automatically clone the [Start Express Repo](https://github.com/quillte
 
 You can install the express-cli project globally OR use npx for one time installation:
 
-`npm install -g start-express `
+`npm install -g start-express-cli `
 
 - with global install
   - `start-express name-of-app `
